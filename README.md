@@ -1,9 +1,9 @@
 # COTS Connect
 
-An agentic outreach and care-coordination app for **Church on the Street of Texas (COTS)**, a real Odessa street-ministry nonprofit: people in need text in, an AI agent triages and opens a care case, volunteers get coordinated by text, and nothing falls through the cracks.
+An agentic outreach and care-coordination app for **Church on the Streets of Texas (COTS)**, a real Odessa street-ministry nonprofit: people in need text in, an AI agent triages and opens a care case, volunteers get coordinated by text, and nothing falls through the cracks.
 
 Built for the OutSystems **"Build for the Future 2026"** hackathon (Taikai), November 2–9, 2026.
-Beneficiary nonprofit: Church on the Street of Texas — all prize winnings go to COTS.
+Beneficiary nonprofit: Church on the Streets of Texas — all prize winnings go to COTS.
 
 ## The problem
 
